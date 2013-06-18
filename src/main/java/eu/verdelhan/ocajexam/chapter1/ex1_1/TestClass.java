@@ -1,4 +1,4 @@
-package eu.verdelhan.ocajexam.exercise1_1;
+package eu.verdelhan.ocajexam.chapter1.ex1_1;
 
 //import java.io.*;
 //import java.text.*;
