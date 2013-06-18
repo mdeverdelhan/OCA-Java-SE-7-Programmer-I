@@ -17,30 +17,30 @@ import java.util.logging.SimpleFormatter;
 
 public class TestClass {
 
-	public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
 
-		/* Ensure directory has been created */
-		new File("logs").mkdir();
+        /* Ensure directory has been created */
+        new File("logs").mkdir();
 
-		/* Get the date to be used in the filename */
-		DateFormat df = new SimpleDateFormat("yyyyMMddhhmmss");
-		Date now = new Date();
-		String date = df.format(now);
+        /* Get the date to be used in the filename */
+        DateFormat df = new SimpleDateFormat("yyyyMMddhhmmss");
+        Date now = new Date();
+        String date = df.format(now);
 
-		/* Set up the filename in the logs directory */
-		String logFileName = "logs\\testlog-" + date + ".txt";
+        /* Set up the filename in the logs directory */
+        String logFileName = "logs\\testlog-" + date + ".txt";
 
-		/* Set up logger */
-		FileHandler myFileHandler = new FileHandler(logFileName);
-		myFileHandler.setFormatter(new SimpleFormatter());
-		Logger ocajLogger = Logger.getLogger("OCAJ Logger");
-		ocajLogger.setLevel(Level.ALL);
-		ocajLogger.addHandler(myFileHandler);
+        /* Set up logger */
+        FileHandler myFileHandler = new FileHandler(logFileName);
+        myFileHandler.setFormatter(new SimpleFormatter());
+        Logger ocajLogger = Logger.getLogger("OCAJ Logger");
+        ocajLogger.setLevel(Level.ALL);
+        ocajLogger.addHandler(myFileHandler);
 
-		/* Log Message */
-		ocajLogger.info("\nThis is a logged information message.");
+        /* Log Message */
+        ocajLogger.info("\nThis is a logged information message.");
 
-		/* Close the file */
-		myFileHandler.close();
-	}
+        /* Close the file */
+        myFileHandler.close();
+    }
 }
