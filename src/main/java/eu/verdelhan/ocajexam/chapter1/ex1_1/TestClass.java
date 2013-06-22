@@ -28,7 +28,7 @@ public class TestClass {
         String date = df.format(now);
 
         /* Set up the filename in the logs directory */
-        String logFileName = "logs\\testlog-" + date + ".txt";
+        String logFileName = "logs/testlog-" + date + ".txt";
 
         /* Set up logger */
         FileHandler myFileHandler = new FileHandler(logFileName);
