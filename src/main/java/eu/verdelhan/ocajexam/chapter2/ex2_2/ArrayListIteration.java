@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 public class ArrayListIteration {
 
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
 
         // Creating the ArrayList

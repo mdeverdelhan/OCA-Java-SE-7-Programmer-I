@@ -10,4 +10,4 @@ Command-line arguments needed to compile the complete program:
 
 Command-line arguments needed to interpret the program:
 
-`java -cp target/classes eu/verdelhan/ocajexam/chapter1/ex1_3/GreetingsUniverse`
+`java -cp target/classes eu.verdelhan.ocajexam.chapter1.ex1_3.GreetingsUniverse`
