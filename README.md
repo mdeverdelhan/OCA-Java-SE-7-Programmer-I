@@ -23,9 +23,9 @@ Here are the solutions of the exercises for each chapter.
 * [Chapter 2: Programming with Java Statements](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter2)
 * [Chapter 3: Programming with Java Operators and Strings](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter3)
 * [Chapter 4: Working with Basic Classes and Variables](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter4)
-* Chapter 5: Understanding Methods and Variable Scope
+* [Chapter 5: Understanding Methods and Variable Scope](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter5)
 * [Chapter 6: Programming with Arrays](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter6)
 * [Chapter 7: Understanding Class Inheritance](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter7)
 * [Chapter 8: Understanding Polymorphism and Casts](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter8)
 * [Chapter 9: Handling Exceptions](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter9)
-* Chapter 10: Working with Classes and Their Relationships
+* [Chapter 10: Working with Classes and Their Relationships](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter10)
