@@ -1,4 +1,6 @@
-*Self Test short answers*
+### Chapter 5: Understanding Methods and Variable Scope
+
+#### Self Test short answers
 
 Questions | Answers
 ----------|--------
