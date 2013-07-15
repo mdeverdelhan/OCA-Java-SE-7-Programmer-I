@@ -1,4 +1,6 @@
-*Self Test short answers*
+### Chapter 7: Understanding Class Inheritance
+
+#### Self Test short answers
 
 Questions | Answers
 ----------|--------
