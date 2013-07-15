@@ -1,4 +1,6 @@
-*Self Test short answers*
+### Chapter 6: Programming with Arrays
+
+#### Self Test short answers
 
 Questions | Answers
 ----------|--------
