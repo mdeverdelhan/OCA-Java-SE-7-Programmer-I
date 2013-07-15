@@ -1,4 +1,6 @@
-*Self Test short answers*
+### Chapter 3: Programming with Java Operators and Strings
+
+#### Self Test short answers
 
 Questions | Answers
 ----------|--------
