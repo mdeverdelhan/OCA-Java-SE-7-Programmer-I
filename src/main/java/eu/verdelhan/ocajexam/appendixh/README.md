@@ -19,7 +19,7 @@ Questions | Answers
 13        | A, C
 14        | C
 15        | A
-16        | B, C
+16        | C
 17        | D
 18        | C
 19        | A
@@ -31,19 +31,19 @@ Questions | Answers
 25        | A
 26        | A
 27        | B
-28        | A
+28        | D
 29        | A
 30        | C
 31        | D
 32        | B, C
 33        | C
-34        | B, C, D, F
+34        | C, D, F
 35        | A
 36        | C, D
 37        | B
 38        | B
 39        | D
-40        | D
+40        | A, C, D
 41        | B
 42        | A, B, C
 43        | D
@@ -52,16 +52,16 @@ Questions | Answers
 46        | D
 47        | C
 48        | I
-49        | A
+49        | B
 50        | C
 51        | C
 52        | B
 53        | D
 54        | A, C
-55        | A
+55        | B
 56        | B
 57        | C
-58        | B, D
+58        | A, B, D
 59        | B, C, D, E
 60        | A
 61        | C
@@ -71,7 +71,7 @@ Questions | Answers
 65        | B, C
 66        | B
 67        | B
-68        | A, C, D, E
+68        | C, D, E
 69        | B
 70        | A, E
 71        | D
@@ -79,18 +79,18 @@ Questions | Answers
 73        | C
 74        | D
 75        | B
-76        | A
+76        | C, D
 77        | B
 78        | A
 79        | A
-80        | A, B, D
+80        | A, D
 81        | A, B
 82        | A, C, D
-83        | A
+83        | D
 84        | C
 85        | A
 86        | A, D
 87        | B
-88        | A, D, D
-89        | A
+88        | A, B, D
+89        | B
 90        | A
