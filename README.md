@@ -29,3 +29,4 @@ Here are the solutions of the exercises for each chapter.
 * [Chapter 8: Understanding Polymorphism and Casts](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter8)
 * [Chapter 9: Handling Exceptions](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter9)
 * [Chapter 10: Working with Classes and Their Relationships](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/chapter10)
+* [Appendix H: Practice Exam](http://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam/appendixh)
