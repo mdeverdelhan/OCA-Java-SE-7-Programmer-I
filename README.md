@@ -4,7 +4,7 @@ This repository contains my implementation of the exercises provided by the *OCA
 
 ### About the guide
 
-![OCA book cover](https://raw.github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/master/src/main/resources/oca_book_cover.png)
+![OCA book cover](src/main/resources/oca_book_cover.png?raw=true)
 
 The ***OCA Java SE 7 Programmer I Study Guide*** (E. Finegan, R. Liguori) has been designed to help you pass the Oracle's *Java SE 7 Programmer I* exam to achieve the *OCA Java SE 7 Programmer Certification*. The book contains coding examples, tests, exercises, and more. Its purpose is to familiarize you with Java fundamentals, concepts, tools, and technologies that will be represented on the exam.
 
