@@ -1,4 +1,15 @@
-/target
+.classpath
+.project
+.settings/
+.idea/
+nb-configuration.xml
+nbactions.xml
+*.iml
+.DS_Store
+log/
+bin/
+target/
+
 *.class
 
 # Package Files #
