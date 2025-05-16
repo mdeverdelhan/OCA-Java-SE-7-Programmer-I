@@ -35,9 +35,6 @@ Here are the solutions of the exercises for each chapter.
 
 #### Support
 
-Ask all questions to [my Twitter account](http://www.twitter.com/marcdeverdelhan).
+Ask all questions to [my 𝕏 account](http://www.x.com/marcdeverdelhan).
 
-#### Donations
-
-Bitcoin address: 13BMqpqbzJ62LjMWcPGWrTrdocvGqifdJ3
 
